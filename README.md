@@ -34,7 +34,7 @@ This project demonstrates a complete implementation of OIDC authentication in a 
 
 For a complete guide and detailed explanation:
 
-**📝 [MEDIUM_ARTICLE_LINK_HERE]**
+\*_📝 (https://medium.com/@emronr/connecting-oidc-in-react-apps-the-practical-guide-with-keycloak-d4d816cafe77)_
 
 ---
 
